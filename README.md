@@ -25,8 +25,11 @@ Run the executable file with/without arguments.
 
 ## Class Hierarchy
 SheetMusic: parses the input
+
 Game:       manages user data and the Board
+
 Board:      controls outputting current board according to SheetMusic
+
 Tile:       responsible for working with a quarter of the Board
 
 ## TODO
