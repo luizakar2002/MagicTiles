@@ -1,4 +1,4 @@
-# Magic Tiles
+# Magic Tiles       [NOT READY YET]
 
 Magic Tiles is a music piano game. It is written in C++ and is displayed in terminal with the help of <ncurses.h> library.
 
